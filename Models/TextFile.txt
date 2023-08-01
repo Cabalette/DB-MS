@@ -1,0 +1,7 @@
+﻿1.1. Organization: projects, chats, groups, roles
+1.2. Project: organization, file, vacancy_projects, user
+1.3. Chat: chat_members, organization, messages, file
+1.4. Group: organization, group, file, vacancy, vacancy_group
+1.5. Role: organization, role, vacancy, role_permission
+
+2.1 File: message_file, task_file 
